@@ -1,0 +1,8 @@
+area
+of
+square
+is
+a*a
+a means
+side
+length
