@@ -2,7 +2,7 @@ perimeter
 of
 square
 is
-4*a
+2*2*a
 a means 
 side 
 length
